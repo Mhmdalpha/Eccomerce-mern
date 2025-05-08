@@ -1,30 +1,90 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
 
 About This Course:
 
--   🚀 Project Setup
--   🗄️ MongoDB & Redis Integration
--   💳 Stripe Payment Setup
--   🔐 Robust Authentication System
--   🔑 JWT with Refresh/Access Tokens
--   📝 User Signup & Login
--   🛒 E-Commerce Core
--   📦 Product & Category Management
--   🛍️ Shopping Cart Functionality
--   💰 Checkout with Stripe
--   🏷️ Coupon Code System
--   👑 Admin Dashboard
--   📊 Sales Analytics
--   🎨 Design with Tailwind
--   🛒 Cart & Checkout Process
--   🔒 Security
--   🛡️ Data Protection
--   🚀Caching with Redis
--   ⌛ And a lot more...
+- 🚀 **Project Setup**  
+  Clean architecture, modular structure, and ready-to-deploy configuration.
+
+- 🗄️ **MongoDB & Redis Integration**  
+  Fast, document-based storage with efficient caching layer using Redis.
+
+- 💳 **Stripe Payment Setup**  
+  Seamless and secure payment processing with Stripe API.
+
+- 🔐 **Robust Authentication System**  
+  Protect routes and user data using industry-standard auth mechanisms.
+
+- 🔑 **JWT with Refresh/Access Tokens**  
+  Secure and scalable token-based authentication flow.
+
+- 📝 **User Signup & Login**  
+  Complete registration and login flow for users.
+
+- 🛒 **E-Commerce Core**  
+  Fully functional e-commerce platform for browsing and purchasing products.
+
+- 📦 **Product & Category Management**  
+  CRUD operations for products and categories from the admin dashboard.
+
+- 🛍️ **Shopping Cart Functionality**  
+  Add, remove, and update items in the cart with persistent storage.
+
+- 💰 **Checkout with Stripe**  
+  Secure and dynamic checkout page integrated with Stripe.
+
+- 🏷️ **Coupon Code System**  
+  Apply discounts with valid promo codes.
+
+- 👑 **Admin Dashboard**  
+  Manage users, products, orders, and reports from a protected dashboard.
+
+- 📊 **Sales Analytics**  
+  Visual representation of sales, orders, and user data with charts.
+
+- 🎨 **Design with Tailwind**  
+  Modern, responsive UI styled with Tailwind CSS.
+
+- 🛒 **Cart & Checkout Process**  
+  Smooth shopping experience with step-by-step purchase flow.
+
+- 🔒 **Security**  
+  Input validation, rate limiting, and secure headers implemented.
+
+- 🛡️ **Data Protection**  
+  Sensitive data encrypted and protected using best practices.
+
+- 🚀 **Caching with Redis**  
+  Enhanced performance and reduced database load with Redis caching.
+
+---
+
+## 📁 Project Structure
+
+_Tambahkan bagian ini jika kamu ingin menjelaskan struktur folder dan file._
+
+---
+
+## 🛠️ Tech Stack
+
+- Backend: Node.js, Express
+- Frontend: React.js / Next.js
+- Database: MongoDB
+- Cache: Redis
+- Payment: Stripe
+- Authentication: JWT, OAuth (optional)
+- UI: Tailwind CSS
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+npm install
 
 ### Setup .env file
 
